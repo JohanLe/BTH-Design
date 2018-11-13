@@ -19,10 +19,18 @@ views:
 Om
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
 
-Skriv några kloka ord om kursen?
+####Några saker och frågor jag hoppas och delvis förväntar mig blir tydligare i denna kurs är:
 
-Lägg till en representativ bild för kursen, enligt ditt egna val.
 
-[FIGURE src=image/car.png?w=300 caption="En fin bil som demobild."]
+>Färgschema och typsnitt?  
+
+>Vad förväntar sig  anvädnarna ? 
+
+>Kommer det att vara roligt att lägga tid på design ? 
+
+>Är det något man kanske vill lära sig mer av efter kursen och fokusera mer på? 
+ 
+Har ganska många funderar kring denna kurs så jag ser verkligen fram emot att få lära mig nytt !
+
+[FIGURE src=image/treeDesign.png?w=300 caption="Designer träd."]
