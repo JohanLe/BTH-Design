@@ -14,3 +14,202 @@
 .rm-navbar-max {
     display: none;
 }
+
+/* General stuff for all pages */
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #020a9f;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.outer-wrap {
+    width: 100%;
+}
+
+/* Header , Logo*/
+
+.region-header-col-1 {
+    width: 29%;
+}
+
+.region-header-col-1 a, .region-header-col-2 a {
+    color: #272442;
+    font-size: 25px;
+}
+
+/* Header , Navbar */
+
+.region-header-col-2 {
+    float: right;
+    position: relative;
+    width: 70%;
+    margin-bottom: 0;
+}
+
+.rm-navbar {
+    width: 100%;
+    overflow: auto;
+    padding-bottom: 5px;
+
+}
+
+.rm-navbar ul li {
+    float: left;
+    list-style-type: none;
+    margin-right: 10px;
+}
+
+.rm-navbar ul li a {
+    position: relative;
+    bottom: 5px;
+    text-align: left;
+    font-size: 23px;
+    font-weight: 600;
+}
+
+/* Flash img */
+
+.region-flash img {
+    position: relative;
+    left: 5%;
+    width: 90%;
+
+}
+
+/* Main */
+.region-main {
+    overflow: auto;
+    height: 100%;
+    width: 100%;
+}
+
+.outer-wrap-main {
+    padding: 10px;
+}
+
+.inner-wrap-main {
+    height: 100%;
+    width: 100%;
+}
+
+.inner-wrap-main .region-main {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+
+.inner-wrap .region-main {
+    width: 69%;
+    float: left;
+    overflow: auto;
+}
+
+.inner-wrap-main .has-sidebar-right {
+    width: 69%;
+    float: left;
+}
+
+.inner-wrap-main .has-sidebar-left {
+    width: 69%;
+    float: left;
+}
+
+.inner-wrap-main .region-sidebar-left {
+    width: 29%;
+    float: left;
+    overflow: auto;
+}
+
+.inner-wrap-main .region-sidebar-right {
+    width: 29%;
+    float: right;
+    box-sizing: border-box;
+    padding-left: 3px;
+}
+
+.inner-wrap-main .region-sidebar-right .block {
+    background-color: rgba(233, 233, 233, 0.5);
+}
+
+.region-main .article {
+    width: 100%;
+    overflow: auto;
+    border-bottom: 1px solid #a2a2a2;
+    padding-left: 10px;;
+}
+
+.region-main .article * {
+    float: left;
+    width: 59%;
+    padding: 0;
+    margin-left: 0;
+}
+
+.region-main .article h1 {
+    width: 100%;
+    text-align: center;
+    font-size: 38px;
+}
+
+.region-main .article .figure {
+    float: right;
+    max-width: 29%;
+}
+
+.region-main .article .figure * {
+    width: 100%;
+    text-align: center;
+}
+
+.region-main .article p {
+    padding: 5px;
+    text-align: left;
+    font-size: 20px;
+    width: 59%;
+}
+
+/* Footer */
+
+.inner-wrap-footer {
+    width: 100%;
+    text-align: center;
+    background-color: rgba(71, 70, 96, 0.88);
+    color: #fff;
+    padding-bottom: 5px;
+    overflow: auto;
+}
+
+.inner-wrap-footer .footer-column {
+    width: 32%;
+    float: left;
+}
+
+/* Redovisning ?? */
+
+.next-previous {
+    width: 100%;
+    overflow: auto;
+    box-sizing: border-box;
+    padding-right: 15px;
+}
+
+.next-previous * {
+    float: right;
+    width: 49%;
+}
+
+.next-previous .next {
+    text-align: right;
+}
+
+.next-previous .previous {
+    text-align: left;
+}

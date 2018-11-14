@@ -2,6 +2,7 @@
 /**
  * Bootstrap the framework and handle the request and send the response.
  */
+// Just makeing some changes here to see if apache will find this map..
 
 // Were are all the files?
 define("ANAX_INSTALL_PATH", realpath(__DIR__ . "/.."));
