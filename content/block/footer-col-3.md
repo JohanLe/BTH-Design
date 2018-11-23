@@ -1,3 +1,4 @@
-#### Footer col 3
+#### Google Dev - Web Fundamentals
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+The use of mobile devices to surf the web is growing at an astronomical pace, but unfortunately much of the web isn't
+ optimized for those mobile devices.

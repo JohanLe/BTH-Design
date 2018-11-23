@@ -1,0 +1,18 @@
+/**
+ * Layout for responsive style through media queries.
+ */
+@media screen and (max-width: 1024px) {
+  .region-header-col-1 .site-logo-text {
+    display: block;
+  }
+  .region-header-col-1 .site-logo {
+    display: none;
+  }
+  .region-header-col-3 .rm-mobile {
+    height: auto;
+    display: block;
+  }
+  .region-header-col-2 .rm-navbar {
+    display: none;
+  }
+}

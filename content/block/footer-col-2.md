@@ -1,3 +1,3 @@
-#### Footer col 2
+#### Quote
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+“If you think your teacher is tough, wait till you get a boss.” - Bill Gates
