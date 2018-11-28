@@ -1,0 +1,83 @@
+/**
+ * Layout useing Vgrid
+ */
+/**
+ * Variables
+ */
+/**
+ * General layout
+ */
+.inner-wrap {
+  margin: 0 auto;
+}
+/* Header , Logo*/
+.region-header-col-1 a,
+.region-header-col-2 a {
+  color: #272442;
+}
+/* Header , Navbar */
+.region-header-col-1 .site-logo-text {
+  display: none;
+}
+.region-header-col-1 .site-logo {
+  display: block;
+}
+.region-header-col-2 {
+  margin-bottom: 0;
+}
+.rm-navbar ul li {
+  list-style-type: none;
+}
+.rm-navbar ul li a {
+  text-align: left;
+  font-size: 23px;
+  font-weight: 600;
+}
+/* Flash img */
+/* Main */
+.outer-wrap-main {
+  padding: 10px;
+}
+.inner-wrap-main .region-main {
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+.inner-wrap-main .region-sidebar-right {
+  box-sizing: border-box;
+  padding-left: 3px;
+}
+.inner-wrap-main .region-sidebar-right .block {
+  background-color: rgba(233, 233, 233, 0.5);
+}
+.region-main .article {
+  border-bottom: 1px solid #a2a2a2;
+}
+.region-main .article * {
+  margin-left: 0;
+}
+.region-main .article h1 {
+  text-align: center;
+  font-size: 38px;
+}
+.region-main .article .figure * {
+  text-align: center;
+}
+.region-main .article p {
+  text-align: left;
+  font-size: 20px;
+}
+/* Footer */
+.inner-wrap-footer {
+  text-align: center;
+  background-color: rgba(71, 70, 96, 0.88);
+  color: #fff;
+  padding-bottom: 5px;
+}
+.inner-wrap-footer a {
+  text-decoration: none;
+  color: #fff;
+}
+/* Redovisning ?? */
+.next-previous .previous {
+  text-align: left;
+}

@@ -5,29 +5,34 @@
 @bgColorBody: #fff;
 @colorBody: #333;
 @fontFamilyBody: serif;
-
 html {
     overflow-y: scroll;
     background-color: @bgColorHtml;
+
 }
 
 body {
+    max-width: 100%;
+    overflow-x: hidden;
     margin: 0;
     padding: 0;
     color: @colorBody;
     background-color: @bgColorBody;
-    font: 100.01%/1 @fontFamilyBody;
 }
 
 ul {
-    list-style-type: none;
+    list-style: none;
 }
 
 a {
     text-decoration: none;
-    color: #020a9f;
+    color: #2c2d65;
 }
 
 a:hover {
     text-decoration: underline;
+}
+
+img {
+    max-width: 100%;
 }

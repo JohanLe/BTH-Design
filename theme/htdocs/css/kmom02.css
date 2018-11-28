@@ -336,21 +336,25 @@ html {
   background-color: #424242;
 }
 body {
+  max-width: 100%;
+  overflow-x: hidden;
   margin: 0;
   padding: 0;
   color: #333;
   background-color: #fff;
-  font: 100.01%/1 serif;
 }
 ul {
-  list-style-type: none;
+  list-style: none;
 }
 a {
   text-decoration: none;
-  color: #020a9f;
+  color: #2c2d65;
 }
 a:hover {
   text-decoration: underline;
+}
+img {
+  max-width: 100%;
 }
 /**
  * Layout style for general structure of header, navbar, main, footer
