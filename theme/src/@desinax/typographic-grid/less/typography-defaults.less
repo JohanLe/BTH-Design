@@ -5,10 +5,17 @@
 @magicNumber:  24px;  // 22px
 @fontSizeBody: 16px;
 
+/**
+* Import fonts.
+*/
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond:400,600|Libre+Baskerville:400,700');
+
+@myFonts : "EB Garamond", Arial;
+
 // Default font-families
-@fontFamilyHeadings: "serif";
-@fontFamilyBody:     "sans-serif";
-@fontFamilyCode:     "monospace";
+@fontFamilyHeadings: @myFonts;
+@fontFamilyBody:     @myFonts;
+@fontFamilyCode:     @myFonts;
 
 // header h1-h6 font sixe
 @fontSizeH1: 2.375em;
@@ -470,6 +477,7 @@
             }
         }
     }
+
 
 
     /**
