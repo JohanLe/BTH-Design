@@ -5267,10 +5267,16 @@ a.rm-button.rm-clicked .rm-button-face-2 {
 /**
  * My own settings, not currently in their own module.
  */
+@font-face {
+  font-family: 'Cantarell';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cantarell Regular'), local('Cantarell-Regular'), url(https://fonts.gstatic.com/s/cantarell/v7/B50NF7ZDq37KMUvlO015jKJu.ttf) format('truetype');
+}
 body {
   background-color: #3f3744;
   color: #e4e4e4;
-  font-family: 'Cantarell', serif;
+  font-family: 'Cantarell', san-serif;
 }
 a,
 p {
