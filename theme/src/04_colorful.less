@@ -1,0 +1,88 @@
+//#a703ff Lila
+@import "kmom04.less";
+
+@backgroundColor: #0c7baa;
+@textColor: #fff;
+@complementry: #aa3e0c;
+@textGold: #D1991C;
+@secondaryColor: #aa3e0c;
+
+body {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+  background-color: @backgroundColor;
+  color: @textColor;
+}
+
+a,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: @textColor;
+
+}
+a:hover {
+  color: @secondaryColor;
+}
+
+.inner-wrap-header {
+  background-color: @secondaryColor;
+  font-weight: 600;
+  .region-header-col-1 {
+    a {
+      color: @textGold;
+    }
+    a:hover {
+      color: @secondaryColor;
+    }
+  }
+  .region-header-col-2 {
+    color: @textGold;
+  }
+  .region-header-col-3 {
+    .rm-button-face-1 {
+      color: @textColor;
+    }
+  }
+}
+
+code, input, select, option {
+  background-color: @backgroundColor;
+
+}
+
+.main {
+
+}
+
+.region-sidebar-left, .region-sidebar-right {
+  .block {
+    background-color: @backgroundColor;
+    h1,
+    h2,
+    h3,
+    h4 {
+      color: @textGold;
+    }
+  }
+}
+
+.inner-wrap-footer {
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: @textGold;
+  }
+
+
+  .site-footer {
+    width: 100%;
+    background-color: @secondaryColor;
+  }
+
+}

@@ -1,0 +1,85 @@
+@import "kmom04.less";
+
+@backgroundColor: #3f3744;
+@textColor: #e4e4e4;
+@dbwebbGreen: #699C17;
+@blockBackgroundColor: #47464f;
+
+body {
+  background-color: @backgroundColor;
+  color: @textColor;
+  font-family: 'Cantarell', serif;
+}
+
+a,
+p{
+  color: @textColor;
+  &:hover{
+    color: @textColor;
+  }
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+  color: @textColor;
+  &:hover{
+    color: @textColor;
+  }
+
+}
+
+.inner-wrap-header {
+  background-color:#333333;
+  .region-header-col-1 {
+    a {
+      color: @dbwebbGreen;
+    }
+
+  }
+
+  .region-header-col-2 {
+    a {
+      font-weight: 600;
+    }
+
+  }
+  .region-header-col-3 {
+    .rm-button-face-1{
+      color: @dbwebbGreen;
+    }
+  }
+}
+
+code, input ,select,option {
+  background-color: @backgroundColor;
+
+
+}
+
+
+
+.main {
+
+}
+
+.region-sidebar-left, .region-sidebar-right {
+  .block {
+    background-color: @backgroundColor;
+  }
+}
+
+
+
+
+.inner-wrap-footer {
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: @dbwebbGreen;
+  }
+}

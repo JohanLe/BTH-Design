@@ -333,7 +333,6 @@ template {
  */
 html {
   overflow-y: scroll;
-  background-color: #424242;
 }
 body {
   max-width: 100%;
@@ -341,7 +340,6 @@ body {
   margin: 0;
   padding: 0;
   color: #333;
-  background-color: #fff;
 }
 ul {
   list-style: none;
@@ -537,6 +535,14 @@ img {
 }
 .next-previous .previous {
   text-align: left;
+}
+.box {
+  width: 50px;
+  height: 50px;
+}
+.color_table {
+  border-spacing: 4px;
+  border-collapse: separate;
 }
 /**
  * Layout for responsive style through media queries.

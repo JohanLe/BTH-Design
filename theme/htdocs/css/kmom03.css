@@ -332,7 +332,6 @@ template {
  */
 html {
   overflow-y: scroll;
-  background-color: #424242;
 }
 body {
   max-width: 100%;
@@ -340,7 +339,6 @@ body {
   margin: 0;
   padding: 0;
   color: #333;
-  background-color: #fff;
 }
 ul {
   list-style: none;
@@ -810,6 +808,9 @@ hr::after {
   width: 19.79166667%;
   margin-left: 0.52083333%;
   margin-right: 0.52083333%;
+}
+.region-header-col-1 img {
+  max-width: 45%;
 }
 .region-header-col-1 .site-logo-text {
   display: none;
