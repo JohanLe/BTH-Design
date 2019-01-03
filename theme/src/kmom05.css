@@ -5384,3 +5384,7 @@ code {
   padding: 4px;
   background-color: #d7e8df;
 }
+.figureContainer {
+  width: 100%;
+  overflow: auto;
+}

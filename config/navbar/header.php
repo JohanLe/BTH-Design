@@ -58,5 +58,10 @@ return [
             "url" => "rapport",
             "title" => "Rapport i markdown.",
         ],
+        [
+            "text" => "Blogg",
+            "url" => "blogg",
+            "title" => "Blogg med bilder i markdown.",
+        ],
     ],
 ];
