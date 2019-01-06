@@ -1,0 +1,60 @@
+@import "kmom04.less";
+@import "@desinax/figure/less/asciinema.less";
+@import "@desinax/figure/less/codepen.less";
+@import "@desinax/figure/less/figure.less";
+
+
+
+
+figure.figure {
+  #desinax-figure.figure();
+}
+
+figure.asciinema {
+  &:extend(figure.figure);
+  #desinax-figure.asciinema();
+}
+
+figure.codepen,
+figure.figure-codepen {
+  &:extend(figure.figure);
+  #desinax-figure.codepen();
+}
+
+
+body {
+  background-color: #c4d2cb;
+}
+
+.region-footer {
+  .column {
+    a, li {
+      color: #000;
+      text-decoration: none;
+      list-style-type: none;
+    }
+  }
+
+}
+
+.wrap-sidebar {
+  .region-sidebar-left, .region-sidebar-right {
+    background-color: #8e9c95;
+  }
+}
+
+.inner-wrap-header {
+  font-weight: 600;
+  font-size: 24px;
+  background-color: #e6b8b8;
+}
+
+code {
+  padding: 4px;
+  background-color: #d7e8df;
+}
+
+.figureContainer {
+  width: 100%;
+  overflow: auto;
+}
