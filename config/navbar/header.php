@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,700" rel="stylesheet">
 <?php
 /**
  * Supply the basis for the navbar as an array.
@@ -29,6 +31,31 @@ return [
                         "text" => "Kmom02",
                         "url" => "redovisning/kmom02",
                         "title" => "Redovisning för kmom02.",
+                    ],
+                    [
+                        "text" => "Kmom03",
+                        "url" => "redovisning/kmom03",
+                        "title" => "Redovisning för kmom03.",
+                    ],
+                    [
+                        "text" => "Kmom04",
+                        "url" => "redovisning/kmom04",
+                        "title" => "Redovisning för kmom04.",
+                    ],
+                    [
+                        "text" => "Kmom05",
+                        "url" => "redovisning/kmom05",
+                        "title" => "Redovisning för kmom05.",
+                    ],
+                    [
+                        "text" => "Kmom06",
+                        "url" => "redovisning/kmom06",
+                        "title" => "Redovisning för kmom06.",
+                    ],
+                    [
+                        "text" => "Kmom07/10",
+                        "url" => "redovisning/kmom07",
+                        "title" => "Redovisning för kmom07.",
                     ],
                 ],
             ],
