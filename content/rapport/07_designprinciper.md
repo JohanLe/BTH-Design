@@ -1,4 +1,6 @@
 
+Design principer
+=================
 #####Kontrast 
 Jag har valt ett split complementary färg schema som baseras på #457d66(Grön från navbar)
 och #ab4c19(koppar) + #ab1943(rödrosa) för att få kontrast mellan olika element.

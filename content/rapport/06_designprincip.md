@@ -1,5 +1,5 @@
 
-Design principles
+Design element&principles kmom05
 ========================
 
 ### Välj tre webbplatser.
@@ -73,6 +73,23 @@ presenteras på ett kreativt sätt med en härligt animation medans deras “lä
 
 >Ja de håller sina designprinciper genom hela webbplatsen. Balansen är de samma från undersida till undersida och  
 rörelsen, hur element glider in, likaså.
+
+
+##### Sammanfatting
+>När de kommer till design element så jobbar alla självklart mycket med färger, de är ofta väldigt harmoniska
+> men har god kontrast för att locka blicken till “rätt” ställe. 
+
+>De mer kreativt och tekniskt inriktade webbplatserna (Klarna och Apple) använder sig mer utav form och space
+> för få mer effekt och visa sina kompetens.
+>Golf.se använder sig mer utav linjer som kan tyckas va lite enklare att implementera och det ger en känsla 
+>vad god struktur. 
+
+>Det jag lade märke till var att alla sidor är väldigt välbalanserade, de ser till att alla element lika jämnt
+> utspridda horisontellt oavsett om de gäller text eller bilder.  
+>Alla sidor är enhetliga där de använder sig utav repetition där de åter använder element, former, färger
+> och rörelse. 
+
+
 
 
 
