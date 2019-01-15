@@ -182,7 +182,7 @@ lite seg att ladda in.
 
 
 
-Trender som är aktuella :
+####Trender som är aktuella :
 
 
 
@@ -199,6 +199,7 @@ Det är väldigt viktigt för designen att skapa en användarvänlig hemsida,
   duktiga på att använda sig utav space för att skapa kontrast och skilja
    på olika element. Det gör väldigt enkelt som användare att hitta och förstå
     vilken text som tillhör vilken bild och navigera sig genom webbplatsen.
+    
 När de gör detta tillåter det dom att göra en mer vertikal webbplats som man 
 scrollar sig genom istället för att ha en massa undersidor och är något som alla
  tre webbplatser har på sina mobilversionen av webbplatsen, mycket enklare att 
@@ -210,6 +211,7 @@ scrollar sig genom istället för att ha en massa undersidor och är något som 
 Det är väldigt aktuellt att jobba med enkla färger som vitt, grått och svart
  som bakgrundsfärger genom alla sidor på webbplatsen. Ger en mjuk och behaglig 
  känsla, enklare att få element att sticka ut med starkare färger när det behövs.
+ 
   De använder ofta få accentfärger en eller två stycken är vanligast och dessa
    används mestadels på knappar och länkar, de interaktiva delarna för användaren
     vilket gör det enkelt att navigera. Om knappar eller länkar inte har någon starkare
