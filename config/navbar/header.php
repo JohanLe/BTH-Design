@@ -53,9 +53,9 @@ return [
                         "title" => "Redovisning för kmom06.",
                     ],
                     [
-                        "text" => "Kmom07/10",
-                        "url" => "redovisning/kmom07",
-                        "title" => "Redovisning för kmom07.",
+                        "text" => "Kmom10",
+                        "url" => "redovisning/kmom10",
+                        "title" => "Redovisning för kmom10.",
                     ],
                 ],
             ],
